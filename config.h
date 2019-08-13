@@ -31,7 +31,6 @@ static const Rule rules[] = {
 	 */
 	/* class      		 instance    title    tags mask   isfloating   monitor */
 	{ "Gimp",     		 NULL,       NULL,    0,          1,           -1 },
-	{ "org.remmina.Remmina", NULL, 	     NULL,    0,	  0,	        2 },
 	{ "Firefox",		 NULL,	     "Library", 0,        1,	       -1 },
 };
 
